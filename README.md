@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**jtnguyen45/jtnguyen45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jessica, and I'm a software engineer based out of the Bay Area. I’m a compassionate full-stack developer dedicated to leveraging technology for positive change. Combining a passion for helping others with my newfound enthusiasm for coding, I bring strong problem-solving skills and collaborative teamwork from my previous experience working in healthcare. With attention to visual aesthetics and a drive to continuously learn and grow, I am eager to make a meaningful impact through innovative solutions.
 
-Here are some ideas to get you started:
+## 📫 Reach Me Here
+- LinkedIn: https://www.linkedin.com/in/jtnguyen45/
+- Email: jtnguyen45@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div class='container'>
+<img style="height: 200px; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=jtnguyen45&show_icons=true&theme=radical" />
+&nbsp;
+&nbsp;
+<img style="height: 200px; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtnguyen45&theme=radical&langs_count=8&layout=compact" /></div>
+</div>
